@@ -1,2 +1,2 @@
 # ChainGPT
-A self-hosting ChatGPT clone using LangChain and Chainlit.
+A self-hosting ChatGPT chatbot clone using LangChain and Chainlit.
