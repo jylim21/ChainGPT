@@ -1,5 +1,5 @@
 # ChainGPT
-A self-hosting ChatGPT chatbot clone using LangChain and Chainlit.
+A self-hosting ChatGPT chatbot clone using LangChain and Chainlit, running on Ollama and powered by Mistral.
 
 # Dependencies
 ### Modules
