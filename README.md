@@ -19,7 +19,7 @@ A self-hosting ChatGPT chatbot clone using LangChain and Chainlit, running on Ol
 # Installation
 1. Clone this repository
     ```bash
-    git clone https://github.com/jylim21/ChainGPT
+    git clone https://github.com/jylim21/ChainGPT.git
     cd ChainGPT
     ```
 2. Open PostgreSQL and create a new database, run the <code>postgres_init.sql</code> SQL script to initialize the database.
